@@ -1,0 +1,20 @@
+{
+  "name": "autostock.ai",
+  "version": "1.0.0",
+  "description": "\"# AutoStock.AI\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniska123/AutoStock.AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniska123/AutoStock.AI/issues"
+  },
+  "homepage": "https://github.com/aniska123/AutoStock.AI#readme"
+}
