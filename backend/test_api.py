@@ -38,4 +38,4 @@ response = requests.post(url, json=payload)
 try:
     print(response.json())
 except Exception as e:
-    print("❌ Failed to decode response:", response.text)
+    print("Failed to decode response:", response.text)
